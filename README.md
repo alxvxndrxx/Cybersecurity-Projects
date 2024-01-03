@@ -1,18 +1,18 @@
 # Cybersecurity Projects (guide only)
 
 # for cybersecurity analysts
-1.      Python.
-2.      PowerShell.
-3.      SQL.
-4.      Bash.
-5.      Perl.
+1. Python.
+2. PowerShell.
+3. SQL.
+4. Bash.
+5. Perl.
 
 # for penetration testers
-1.      Python.
-2.      PowerShell.
-3.      Bash.
-4.      Java.
-5.      Ruby.
+1. Python.
+2. PowerShell.
+3. Bash.
+4. Java.
+5. Ruby.
 
 # Beginner
 1. Web Scraper
@@ -44,6 +44,8 @@
 
 Links:
 https://www.knowledgehut.com/blog/security/top-cyber-security-projects
+
 https://www.upgrad.com/blog/cyber-security-project-ideas-topics/
+
 https://trainings.internshala.com/blog/cyber-security-projects-with-source-code/
 
